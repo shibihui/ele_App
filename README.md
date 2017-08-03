@@ -22,8 +22,8 @@ For detailed explanation on how things work, checkout the [guide](http://vuejs-t
 
 
 ----------
-** 仅供学习参考，有问题请联系我,
-For educational purposes only, please contact me if you,**
+**仅供学习参考，有问题请联系我,
+**For educational purposes only, please contact me if you,
 
  **邮箱：bihui.shi@hotmail.com
- have any questionsE-mail: bihui.shi@hotmail.com**
+ **have any questionsE-mail: bihui.shi@hotmail.com
